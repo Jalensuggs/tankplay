@@ -2,6 +2,8 @@
 
 纯 HTML5 Canvas 打造的 2D 俯视角坦克闯关游戏。单文件、零外部依赖，所有图形均由 Canvas 程序化绘制。
 
+**在线试玩**：https://tankplay.vercel.app
+
 ## 运行截图
 
 | 主菜单 | 游戏画面 |
